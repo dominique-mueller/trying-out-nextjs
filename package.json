@@ -1,0 +1,23 @@
+{
+  "name": "trying-out-nextjs",
+  "description": "Let's try out Next.js!",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.x",
+    "@types/node": "18.11.x",
+    "@types/react": "18.0.x",
+    "@types/react-dom": "18.0.x",
+    "eslint": "8.32.x",
+    "eslint-config-next": "13.1.x",
+    "next": "13.1.x",
+    "react": "18.2.x",
+    "react-dom": "18.2.x",
+    "typescript": "4.9.x"
+  }
+}
